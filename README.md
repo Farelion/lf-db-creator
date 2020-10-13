@@ -32,6 +32,23 @@ WoW.prototype.journal = function getJournal({ id, ...args } = {}) {
     }),
   );
 };
+
+/**
+ * Fetch World of Warcraft journal-instance data by id.
+ *
+ * @param {Object} [args]
+ * @param {Number} args.id A journal instance ID
+ * @return {Promise} A thenable Promises/A+ reference
+ */
+WoW.prototype.journalInstance = function getJournalInstance({ id, ...args } = {}) {
+  return this.blizzard.get(
+    `/data/wow/journal-instance/${id}`,
+    merge({}, args, {
+      namespace: 'static',
+    }),
+  );
+};
+
 ```
 
 - - Not necessary: Delete headers to avoid erros from browser in blizzard.js/lib/blizzard.js
