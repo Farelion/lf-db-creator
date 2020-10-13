@@ -2,17 +2,14 @@ var fs = require('fs');                                        // load filesave 
 
 var lootTable = {
             dungeons:{                                          // create variable to store data that will be saved to json file
-                ad: [],
-                fh: [],
-                td: [],
-                ml: [],
-                wm: [],
-                under: [],
-                sob: [],
-                tos: [],
-                sots: [],
-                kr: [],
-                mechagon: [],
+                dos: [],
+                hoa: [],
+                mots: [],
+                pf: [],
+                sd: [],
+                soa: [],
+                nw: [],
+                top: [],
                 }
             }
 
@@ -38,84 +35,65 @@ renderData = async() => {
     var dungeonCounter = 0;                                 // variable used for specifying in which dungeon items will be saved
 
     ///////////////////////////////////
-    ///// Atal'Dazar
+    ///// De Other Side
     ///////////////////////////////////
-    await createLootTable(9028, dungeonCounter)
-    console.log('AtalDazar done.')
+    await createLootTable(1188, dungeonCounter)
+    console.log('De Other Side done.')
     
     ///////////////////////////////////
-    ///// Freehold
+    ///// Halls of Atonement
     ///////////////////////////////////
-    await createLootTable(9164, dungeonCounter)
-    console.log('Freehold done.')
+    await createLootTable(1185, dungeonCounter)
+    console.log('Halls of Atonement done.')
 
     ///////////////////////////////////
-    ///// Tol Dagor
+    ///// Mists of Tirna Scithe
     ///////////////////////////////////
-    await createLootTable(9327, dungeonCounter)
-    console.log('Tol Dagor done.')
+    await createLootTable(1184, dungeonCounter)
+    console.log('Mists of Tirna Scithe done.')
 
     ///////////////////////////////////
-    ///// The Motherlode!!
+    ///// Plaguefall
     ///////////////////////////////////
-    await createLootTable(8064, dungeonCounter)
-    console.log('The Motherlode!! done.')
+    await createLootTable(1183, dungeonCounter)
+    console.log('Plaguefall done.')
 
     ///////////////////////////////////
-    ///// Waycrest Manor
+    ///// Sanguine Depths
     ///////////////////////////////////
-    await createLootTable(9424, dungeonCounter)
-    console.log('Waycrest Manor done.')
+    await createLootTable(1189, dungeonCounter)
+    console.log('Sanguine Depths done.')
 
     ///////////////////////////////////
-    ///// Underrot
+    ///// Spires of Ascension
     ///////////////////////////////////
-    await createLootTable(9391, dungeonCounter)
-    console.log('Underrot done.')
+    await createLootTable(1186, dungeonCounter)
+    console.log('Spires of Ascension done.')
 
     ///////////////////////////////////
-    ///// Siege of Boralus
+    ///// The Necrotic Wake
     ///////////////////////////////////
-    await createLootTable(9354, dungeonCounter)
-    console.log('Siege of Boralus done.')
+    await createLootTable(1182, dungeonCounter)
+    console.log('The Necrotic Wake done.')
 
     ///////////////////////////////////
-    ///// Temple of Sethraliss
+    ///// Theater of Pain
     ///////////////////////////////////
-    await createLootTable(9527, dungeonCounter)
-    console.log('Temple of Sethraliss done.')
-
-    ///////////////////////////////////
-    ///// Shrine of the Storms
-    ///////////////////////////////////
-    await createLootTable(9525, dungeonCounter)
-    console.log('Shrine of the Storms done.')
-
-    ///////////////////////////////////
-    ///// Kings Rest
-    ///////////////////////////////////
-    await createLootTable(9526, dungeonCounter)
-    console.log('Kings Rest done.')
-
-    ///////////////////////////////////
-    ///// Mechagon
-    ///////////////////////////////////
-    await createLootTable(10036, dungeonCounter)
-    console.log('Mechagon done.')
-
+    await createLootTable(1187, dungeonCounter)
+    console.log('Theater of Pain done.')
 
 
     async function createLootTable(arg, value) {
 
-    let zone = await blizzard.wow.zone({ id: arg });
+    let zone = await blizzard.wow.journalInstance({ id: arg });
     let zoneData = zone.data;
 
     let format = {
         zoneId: zoneData.id,
         zoneName: zoneData.name,
             
-        bosses: zoneData.bosses.map((boss, i) => ({
-            journalId: boss.journalId,
+        bosses: zoneData.encounters.map((boss, i) => ({
+            journalId: boss.id,
             name: boss.name
         }))
         }
