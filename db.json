@@ -1,0 +1,5079 @@
+{
+  "dungeons": {
+    "dos": [
+      {
+        "instanceName": "De Other Side",
+        "bossName": "Hakkar the Soulflayer",
+        "itemId": 179324,
+        "itemName": "Soulfeather Breeches",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Legs",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "Hakkar the Soulflayer",
+        "itemId": 179331,
+        "itemName": "Blood-Spattered Scale",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Strength"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "Hakkar the Soulflayer",
+        "itemId": 179326,
+        "itemName": "Girdle of the Soulflayer",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Waist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "Hakkar the Soulflayer",
+        "itemId": 179322,
+        "itemName": "Windscale Moccasins",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Feet",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "Hakkar the Soulflayer",
+        "itemId": 179325,
+        "itemName": "Hakkari Revenant's Grips",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Hands",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "Hakkar the Soulflayer",
+        "itemId": 179328,
+        "itemName": "Bloodspiller",
+        "itemClass": "Weapon",
+        "itemSubClass": "Sword",
+        "itemInvType": "One-Hand",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "Hakkar the Soulflayer",
+        "itemId": 179330,
+        "itemName": "Zin'khas, Blade of the Fallen God",
+        "itemClass": "Weapon",
+        "itemSubClass": "Sword",
+        "itemInvType": "Two-Hand",
+        "stats": [
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "The Manastorms",
+        "itemId": 179340,
+        "itemName": "Supercollider",
+        "itemClass": "Weapon",
+        "itemSubClass": "Mace",
+        "itemInvType": "One-Hand",
+        "stats": [
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "The Manastorms",
+        "itemId": 179339,
+        "itemName": "Whizblast Walking Stick",
+        "itemClass": "Weapon",
+        "itemSubClass": "Staff",
+        "itemInvType": "Two-Hand",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "The Manastorms",
+        "itemId": 179337,
+        "itemName": "Techno-Coil Legguards",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Legs",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "The Manastorms",
+        "itemId": 179338,
+        "itemName": "Dynamo Doomstompers",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Feet",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "The Manastorms",
+        "itemId": 179335,
+        "itemName": "Manastorm's Magnificent Threads",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Chest",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "The Manastorms",
+        "itemId": 179342,
+        "itemName": "Overwhelming Power Crystal",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Strength"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "The Manastorms",
+        "itemId": 179336,
+        "itemName": "Rocket Chicken Handlers",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Hands",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "Dealer Xy'exa",
+        "itemId": 179350,
+        "itemName": "Inscrutable Quantum Device",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Strength"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "Dealer Xy'exa",
+        "itemId": 179344,
+        "itemName": "Far Traveler's Shoulderpads",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Shoulder",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "Dealer Xy'exa",
+        "itemId": 179346,
+        "itemName": "Breastplate of Fatal Contrivances",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Chest",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "Dealer Xy'exa",
+        "itemId": 179347,
+        "itemName": "Collector's Pulse Staff",
+        "itemClass": "Weapon",
+        "itemSubClass": "Staff",
+        "itemInvType": "Two-Hand",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "Dealer Xy'exa",
+        "itemId": 179349,
+        "itemName": "Dealer Xy'exa's Cape",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Back",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "Dealer Xy'exa",
+        "itemId": 179343,
+        "itemName": "Sash of Exquisite Acquisitions",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Waist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "Dealer Xy'exa",
+        "itemId": 179348,
+        "itemName": "Xy Cartel Crossbow",
+        "itemClass": "Weapon",
+        "itemSubClass": "Crossbow",
+        "itemInvType": "Ranged",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "Dealer Xy'exa",
+        "itemId": 179345,
+        "itemName": "Spatial Rift Striders",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Feet",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "Mueh'zala",
+        "itemId": 179355,
+        "itemName": "Death God's Signet",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Finger",
+        "stats": [
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "Mueh'zala",
+        "itemId": 179351,
+        "itemName": "Mueh'zala's Hexthread Sarong",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Legs",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "Mueh'zala",
+        "itemId": 179354,
+        "itemName": "Reality-Shatter Vambraces",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Wrist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "Mueh'zala",
+        "itemId": 179352,
+        "itemName": "Primeval Soul's Ankleguards",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Feet",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "Mueh'zala",
+        "itemId": 179356,
+        "itemName": "Shadowgrasp Totem",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Agility"
+          }
+        ]
+      },
+      {
+        "instanceName": "De Other Side",
+        "bossName": "Mueh'zala",
+        "itemId": 179353,
+        "itemName": "Harness of Twisted Whims",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Chest",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      }
+    ],
+    "hoa": [
+      {
+        "instanceName": "Halls of Atonement",
+        "bossName": "Halkias, the Sin-Stained Goliath",
+        "itemId": 178818,
+        "itemName": "Halkias' Towering Pillars",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Legs",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Halls of Atonement",
+        "bossName": "Halkias, the Sin-Stained Goliath",
+        "itemId": 178817,
+        "itemName": "Hood of Refracted Shadows",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Head",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Halls of Atonement",
+        "bossName": "Halkias, the Sin-Stained Goliath",
+        "itemId": 178813,
+        "itemName": "Sinlight Shroud",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Chest",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "Halls of Atonement",
+        "bossName": "Halkias, the Sin-Stained Goliath",
+        "itemId": 178827,
+        "itemName": "Sin Stained Pendant",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Neck",
+        "stats": [
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Halls of Atonement",
+        "bossName": "Halkias, the Sin-Stained Goliath",
+        "itemId": 178830,
+        "itemName": "Shardskin Sabatons",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Feet",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Halls of Atonement",
+        "bossName": "Echelon",
+        "itemId": 178825,
+        "itemName": "Pulsating Stoneheart",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Strength"
+          }
+        ]
+      },
+      {
+        "instanceName": "Halls of Atonement",
+        "bossName": "Echelon",
+        "itemId": 178819,
+        "itemName": "Skyterror's Stonehide Leggings",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Legs",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Halls of Atonement",
+        "bossName": "Echelon",
+        "itemId": 178834,
+        "itemName": "Stoneguardian's Morningstar",
+        "itemClass": "Weapon",
+        "itemSubClass": "Mace",
+        "itemInvType": "One-Hand",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Halls of Atonement",
+        "bossName": "Echelon",
+        "itemId": 178815,
+        "itemName": "Soaring Decimator's Hauberk",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Chest",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Halls of Atonement",
+        "bossName": "Echelon",
+        "itemId": 178833,
+        "itemName": "Stonefiend Shaper's Mitts",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Hands",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "Halls of Atonement",
+        "bossName": "Echelon",
+        "itemId": 178812,
+        "itemName": "Wing Commander's Helmet",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Head",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Halls of Atonement",
+        "bossName": "High Adjudicator Aleez",
+        "itemId": 178814,
+        "itemName": "Breastplate of Otherworldly Influence",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Chest",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "Halls of Atonement",
+        "bossName": "High Adjudicator Aleez",
+        "itemId": 178832,
+        "itemName": "Gloves of Haunting Fixation",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Hands",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Halls of Atonement",
+        "bossName": "High Adjudicator Aleez",
+        "itemId": 178821,
+        "itemName": "Mantle of Ephemeral Visages",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Shoulder",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Halls of Atonement",
+        "bossName": "High Adjudicator Aleez",
+        "itemId": 178828,
+        "itemName": "Nathrian Tabernacle",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Held In Off-hand",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Halls of Atonement",
+        "bossName": "High Adjudicator Aleez",
+        "itemId": 178826,
+        "itemName": "Sunblood Amethyst",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Strength"
+          }
+        ]
+      },
+      {
+        "instanceName": "Halls of Atonement",
+        "bossName": "High Adjudicator Aleez",
+        "itemId": 178822,
+        "itemName": "Cord of the Dark Word",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Waist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Halls of Atonement",
+        "bossName": "Lord Chamberlain",
+        "itemId": 178831,
+        "itemName": "Slippers of Leavened Station",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Feet",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "Halls of Atonement",
+        "bossName": "Lord Chamberlain",
+        "itemId": 178820,
+        "itemName": "Pauldrons of Unleashed Pride",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Shoulder",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Halls of Atonement",
+        "bossName": "Lord Chamberlain",
+        "itemId": 178816,
+        "itemName": "Nathrian Usurper's Mask",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Head",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Halls of Atonement",
+        "bossName": "Lord Chamberlain",
+        "itemId": 178829,
+        "itemName": "Nathrian Ferula",
+        "itemClass": "Weapon",
+        "itemSubClass": "Staff",
+        "itemInvType": "Two-Hand",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "Halls of Atonement",
+        "bossName": "Lord Chamberlain",
+        "itemId": 178824,
+        "itemName": "Signet of the False Accuser",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Finger",
+        "stats": [
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Halls of Atonement",
+        "bossName": "Lord Chamberlain",
+        "itemId": 178823,
+        "itemName": "Waistcord of Dark Devotion",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Waist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      }
+    ],
+    "mots": [
+      {
+        "instanceName": "Mists of Tirna Scithe",
+        "bossName": "Ingra Maloch",
+        "itemId": 178709,
+        "itemName": "Scithewood Scepter",
+        "itemClass": "Weapon",
+        "itemSubClass": "Mace",
+        "itemInvType": "One-Hand",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Mists of Tirna Scithe",
+        "bossName": "Ingra Maloch",
+        "itemId": 178698,
+        "itemName": "Rainshadow Hauberk",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Chest",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "Mists of Tirna Scithe",
+        "bossName": "Ingra Maloch",
+        "itemId": 178692,
+        "itemName": "Soulthorn Visage",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Head",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Mists of Tirna Scithe",
+        "bossName": "Ingra Maloch",
+        "itemId": 178704,
+        "itemName": "Deathshackle Wristwraps",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Wrist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Mists of Tirna Scithe",
+        "bossName": "Ingra Maloch",
+        "itemId": 178696,
+        "itemName": "Ingra Maloch's Mantle",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Shoulder",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Mists of Tirna Scithe",
+        "bossName": "Ingra Maloch",
+        "itemId": 178713,
+        "itemName": "Drustlord's Greataxe",
+        "itemClass": "Weapon",
+        "itemSubClass": "Axe",
+        "itemInvType": "Two-Hand",
+        "stats": [
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Mists of Tirna Scithe",
+        "bossName": "Ingra Maloch",
+        "itemId": 178708,
+        "itemName": "Unbound Changeling",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Intellect"
+          }
+        ]
+      },
+      {
+        "instanceName": "Mists of Tirna Scithe",
+        "bossName": "Ingra Maloch",
+        "itemId": 178700,
+        "itemName": "Clasp of Waning Shadow",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Waist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Mists of Tirna Scithe",
+        "bossName": "Ingra Maloch",
+        "itemId": 178694,
+        "itemName": "Wrathbark Greathelm",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Head",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Mists of Tirna Scithe",
+        "bossName": "Mistcaller",
+        "itemId": 178691,
+        "itemName": "Hood of the Hidden Path",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Head",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Mists of Tirna Scithe",
+        "bossName": "Mistcaller",
+        "itemId": 178697,
+        "itemName": "Prankster's Pauldrons",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Shoulder",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Mists of Tirna Scithe",
+        "bossName": "Mistcaller",
+        "itemId": 178706,
+        "itemName": "Fogweaver Gauntlets",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Hands",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Mists of Tirna Scithe",
+        "bossName": "Mistcaller",
+        "itemId": 178695,
+        "itemName": "Wintersnap Shoulderguards",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Shoulder",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Mists of Tirna Scithe",
+        "bossName": "Mistcaller",
+        "itemId": 178710,
+        "itemName": "Tanglewood Thorn",
+        "itemClass": "Weapon",
+        "itemSubClass": "Dagger",
+        "itemInvType": "One-Hand",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Mists of Tirna Scithe",
+        "bossName": "Mistcaller",
+        "itemId": 178715,
+        "itemName": "Mistcaller Ocarina",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Agility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Mists of Tirna Scithe",
+        "bossName": "Mistcaller",
+        "itemId": 178705,
+        "itemName": "Tricksprite Gloves",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Hands",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "Mists of Tirna Scithe",
+        "bossName": "Mistcaller",
+        "itemId": 178707,
+        "itemName": "Trailspinner Pendant",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Neck",
+        "stats": [
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Mists of Tirna Scithe",
+        "bossName": "Tred'ova",
+        "itemId": 178703,
+        "itemName": "Hiveswarm Bracers",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Wrist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Mists of Tirna Scithe",
+        "bossName": "Tred'ova",
+        "itemId": 178693,
+        "itemName": "Cocoonsilk Cowl",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Head",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Mists of Tirna Scithe",
+        "bossName": "Tred'ova",
+        "itemId": 178699,
+        "itemName": "Sapgorger Belt",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Waist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Mists of Tirna Scithe",
+        "bossName": "Tred'ova",
+        "itemId": 178712,
+        "itemName": "Acidslough Bulwark",
+        "itemClass": "Armor",
+        "itemSubClass": "Shield",
+        "itemInvType": "Off Hand",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Mists of Tirna Scithe",
+        "bossName": "Tred'ova",
+        "itemId": 178702,
+        "itemName": "Bands of the Undergrowth",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Wrist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Mists of Tirna Scithe",
+        "bossName": "Tred'ova",
+        "itemId": 178711,
+        "itemName": "Axe of the Deadgrove",
+        "itemClass": "Weapon",
+        "itemSubClass": "Axe",
+        "itemInvType": "One-Hand",
+        "stats": [
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Mists of Tirna Scithe",
+        "bossName": "Tred'ova",
+        "itemId": 178701,
+        "itemName": "Gormshell Greaves",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Legs",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Mists of Tirna Scithe",
+        "bossName": "Tred'ova",
+        "itemId": 178714,
+        "itemName": "Lakali's Spire of Knowledge",
+        "itemClass": "Weapon",
+        "itemSubClass": "Staff",
+        "itemInvType": "Two-Hand",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      }
+    ],
+    "pf": [
+      {
+        "instanceName": "Plaguefall",
+        "bossName": "Globgrog",
+        "itemId": 178756,
+        "itemName": "Stradama's Misplaced Slippers",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Feet",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Plaguefall",
+        "bossName": "Globgrog",
+        "itemId": 178753,
+        "itemName": "Surgical Pustule Extractor",
+        "itemClass": "Weapon",
+        "itemSubClass": "Dagger",
+        "itemInvType": "One-Hand",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Plaguefall",
+        "bossName": "Globgrog",
+        "itemId": 178770,
+        "itemName": "Slimy Consumptive Organ",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Stamina"
+          }
+        ]
+      },
+      {
+        "instanceName": "Plaguefall",
+        "bossName": "Globgrog",
+        "itemId": 178773,
+        "itemName": "Plague Handler's Greathelm",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Head",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Plaguefall",
+        "bossName": "Globgrog",
+        "itemId": 178760,
+        "itemName": "Disgested Interrogator's Gaze",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Head",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Plaguefall",
+        "bossName": "Globgrog",
+        "itemId": 178762,
+        "itemName": "Blightborne Chain Legguards",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Legs",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Plaguefall",
+        "bossName": "Doctor Ickus",
+        "itemId": 178759,
+        "itemName": "Depraved Physician's Mask",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Head",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Plaguefall",
+        "bossName": "Doctor Ickus",
+        "itemId": 178775,
+        "itemName": "Fleshfused Crushers",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Hands",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Plaguefall",
+        "bossName": "Doctor Ickus",
+        "itemId": 178763,
+        "itemName": "Malodorous Gristle-Sown Spaulders",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Shoulder",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Plaguefall",
+        "bossName": "Doctor Ickus",
+        "itemId": 178767,
+        "itemName": "Tortured Assistant's Bindings",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Wrist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Plaguefall",
+        "bossName": "Doctor Ickus",
+        "itemId": 178771,
+        "itemName": "Phial of Putrefaction",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Plaguefall",
+        "bossName": "Doctor Ickus",
+        "itemId": 178752,
+        "itemName": "Sophisticated Bonecracker",
+        "itemClass": "Weapon",
+        "itemSubClass": "Mace",
+        "itemInvType": "One-Hand",
+        "stats": [
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Plaguefall",
+        "bossName": "Domina Venomblade",
+        "itemId": 178933,
+        "itemName": "Arachnid Cipher Ring",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Finger",
+        "stats": [
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "Plaguefall",
+        "bossName": "Domina Venomblade",
+        "itemId": 178931,
+        "itemName": "Scarred Bloodbound Girdle",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Waist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Plaguefall",
+        "bossName": "Domina Venomblade",
+        "itemId": 178929,
+        "itemName": "Halberd of the Aranakk",
+        "itemClass": "Weapon",
+        "itemSubClass": "Polearm",
+        "itemInvType": "Two-Hand",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "Plaguefall",
+        "bossName": "Domina Venomblade",
+        "itemId": 178934,
+        "itemName": "Fastened Venombarb Binds",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Wrist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Plaguefall",
+        "bossName": "Domina Venomblade",
+        "itemId": 178930,
+        "itemName": "Mitts of Flawless Duplication",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Hands",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Plaguefall",
+        "bossName": "Domina Venomblade",
+        "itemId": 178932,
+        "itemName": "Belt of Wretched Manipulations",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Waist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Plaguefall",
+        "bossName": "Domina Venomblade",
+        "itemId": 178928,
+        "itemName": "Domina's Oozing Shiv",
+        "itemClass": "Weapon",
+        "itemSubClass": "Dagger",
+        "itemInvType": "One-Hand",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Plaguefall",
+        "bossName": "Margrave Stradama",
+        "itemId": 178755,
+        "itemName": "Blighted Margrave's Cloak",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Back",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Plaguefall",
+        "bossName": "Margrave Stradama",
+        "itemId": 178761,
+        "itemName": "Leggings of the Erudite Scholar",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Legs",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Plaguefall",
+        "bossName": "Margrave Stradama",
+        "itemId": 178754,
+        "itemName": "Poxstorm, Longsword of Pestilence",
+        "itemClass": "Weapon",
+        "itemSubClass": "Sword",
+        "itemInvType": "One-Hand",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Plaguefall",
+        "bossName": "Margrave Stradama",
+        "itemId": 178769,
+        "itemName": "Infinitely Divisible Ooze",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Plaguefall",
+        "bossName": "Margrave Stradama",
+        "itemId": 178774,
+        "itemName": "Muckwallow Stompers",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Feet",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "Plaguefall",
+        "bossName": "Margrave Stradama",
+        "itemId": 178757,
+        "itemName": "Gloves of Obscure Rituals",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Hands",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "Plaguefall",
+        "bossName": "Margrave Stradama",
+        "itemId": 178764,
+        "itemName": "Plagueborne Shoulderguards",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Shoulder",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      }
+    ],
+    "sd": [
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "Kryxis the Voracious",
+        "itemId": 178844,
+        "itemName": "Essence Surgers Cuffs",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Wrist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "Kryxis the Voracious",
+        "itemId": 178846,
+        "itemName": "Shackles of Alluring Vitality",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Wrist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "Kryxis the Voracious",
+        "itemId": 178848,
+        "itemName": "Entwined Gorger Tendril",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Finger",
+        "stats": [
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "Kryxis the Voracious",
+        "itemId": 178853,
+        "itemName": "Voracious Gorger Spine",
+        "itemClass": "Weapon",
+        "itemSubClass": "Dagger",
+        "itemInvType": "One-Hand",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "Kryxis the Voracious",
+        "itemId": 178835,
+        "itemName": "Anima-Splattered Hide",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Chest",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "Kryxis the Voracious",
+        "itemId": 178836,
+        "itemName": "Sabatons of the Rushing Juggernaut",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Feet",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "Kryxis the Voracious",
+        "itemId": 178854,
+        "itemName": "Hungering Devourer's Twinblade",
+        "itemClass": "Weapon",
+        "itemSubClass": "Warglaives",
+        "itemInvType": "One-Hand",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "Executor Tarvold",
+        "itemId": 178843,
+        "itemName": "Executor's Prideful Girdle",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Waist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "Executor Tarvold",
+        "itemId": 178849,
+        "itemName": "Overflowing Anima Prison",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Intellect"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "Executor Tarvold",
+        "itemId": 178837,
+        "itemName": "Sinsoaked Waders",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Feet",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "Executor Tarvold",
+        "itemId": 178855,
+        "itemName": "Sinsmasher",
+        "itemClass": "Weapon",
+        "itemSubClass": "Mace",
+        "itemInvType": "One-Hand",
+        "stats": [
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "Executor Tarvold",
+        "itemId": 178845,
+        "itemName": "Vambraces of the Depraved Warden",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Wrist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "Executor Tarvold",
+        "itemId": 178859,
+        "itemName": "Castigator's Mantle",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Shoulder",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "Executor Tarvold",
+        "itemId": 178851,
+        "itemName": "Cloak of Enveloping Manifestations",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Back",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "Grand Proctor Beryllia",
+        "itemId": 178852,
+        "itemName": "Vessel of Shining Radiance",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Held In Off-hand",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "Grand Proctor Beryllia",
+        "itemId": 178838,
+        "itemName": "Beryllia's Leggings of Endless Torment",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Legs",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "Grand Proctor Beryllia",
+        "itemId": 178850,
+        "itemName": "Lingering Sunmote",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Intellect"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "Grand Proctor Beryllia",
+        "itemId": 178847,
+        "itemName": "Radiant Light Binders",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Wrist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "Grand Proctor Beryllia",
+        "itemId": 178841,
+        "itemName": "Iron Spiked Handgrips",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Hands",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "Grand Proctor Beryllia",
+        "itemId": 178842,
+        "itemName": "Waistguard of Expurged Anguish",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Waist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "General Kaal",
+        "itemId": 178856,
+        "itemName": "Kaal's Gloomblade",
+        "itemClass": "Weapon",
+        "itemSubClass": "Sword",
+        "itemInvType": "One-Hand",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "General Kaal",
+        "itemId": 178861,
+        "itemName": "Decanter of Anima-Charged Winds",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Strength"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "General Kaal",
+        "itemId": 178840,
+        "itemName": "Guilewind Stone Talons",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Hands",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "General Kaal",
+        "itemId": 178860,
+        "itemName": "Cowl of the Devoted General",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Head",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "General Kaal",
+        "itemId": 178858,
+        "itemName": "Wicked Bladewing Pauldrons",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Shoulder",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "General Kaal",
+        "itemId": 178857,
+        "itemName": "Stone General's Edge",
+        "itemClass": "Weapon",
+        "itemSubClass": "Axe",
+        "itemInvType": "One-Hand",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "General Kaal",
+        "itemId": 178839,
+        "itemName": "Wind Dancer's Legguards",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Legs",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Sanguine Depths",
+        "bossName": "General Kaal",
+        "itemId": 178862,
+        "itemName": "Bladedancer's Armor Kit",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Strength"
+          }
+        ]
+      }
+    ],
+    "soa": [
+      {
+        "instanceName": "Spires of Ascension",
+        "bossName": "Kin-Tara",
+        "itemId": 180115,
+        "itemName": "Azure-Venom Choker",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Neck",
+        "stats": [
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Spires of Ascension",
+        "bossName": "Kin-Tara",
+        "itemId": 180109,
+        "itemName": "Kin-Tara's Baleful Cord",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Waist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Spires of Ascension",
+        "bossName": "Kin-Tara",
+        "itemId": 180103,
+        "itemName": "Winged Hunters' Gloves",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Hands",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "Spires of Ascension",
+        "bossName": "Kin-Tara",
+        "itemId": 180100,
+        "itemName": "Forsworn Stalker's Hauberk",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Chest",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Spires of Ascension",
+        "bossName": "Kin-Tara",
+        "itemId": 180097,
+        "itemName": "Quarterstaff of Discordant Ethic",
+        "itemClass": "Weapon",
+        "itemSubClass": "Staff",
+        "itemInvType": "Two-Hand",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Spires of Ascension",
+        "bossName": "Kin-Tara",
+        "itemId": 180101,
+        "itemName": "Warboots of Ruthless Conviction",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Feet",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Spires of Ascension",
+        "bossName": "Ventunax",
+        "itemId": 180116,
+        "itemName": "Overcharged Anima Battery",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Spires of Ascension",
+        "bossName": "Ventunax",
+        "itemId": 180110,
+        "itemName": "Dark Praetorian's Clasp",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Waist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Spires of Ascension",
+        "bossName": "Ventunax",
+        "itemId": 180095,
+        "itemName": "Penitent Edge",
+        "itemClass": "Weapon",
+        "itemSubClass": "Axe",
+        "itemInvType": "One-Hand",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Spires of Ascension",
+        "bossName": "Ventunax",
+        "itemId": 180104,
+        "itemName": "Distorted Construct's Gauntlets",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Hands",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "Spires of Ascension",
+        "bossName": "Ventunax",
+        "itemId": 180111,
+        "itemName": "Shadowhirl Waistwrap",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Waist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Spires of Ascension",
+        "bossName": "Ventunax",
+        "itemId": 180102,
+        "itemName": "Dark Stride Footwraps",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Feet",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "Spires of Ascension",
+        "bossName": "Oryphrion",
+        "itemId": 180118,
+        "itemName": "Anima Field Emitter",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Spires of Ascension",
+        "bossName": "Oryphrion",
+        "itemId": 180112,
+        "itemName": "The Philosopher",
+        "itemClass": "Weapon",
+        "itemSubClass": "Gun",
+        "itemInvType": "Ranged",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "Spires of Ascension",
+        "bossName": "Oryphrion",
+        "itemId": 180117,
+        "itemName": "Empyreal Ordnance",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Spires of Ascension",
+        "bossName": "Oryphrion",
+        "itemId": 180107,
+        "itemName": "Purge Protocol Legwraps",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Legs",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Spires of Ascension",
+        "bossName": "Oryphrion",
+        "itemId": 180106,
+        "itemName": "Vicious Surge Faceguard",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Head",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Spires of Ascension",
+        "bossName": "Oryphrion",
+        "itemId": 180105,
+        "itemName": "Absonant Construct's Handguards",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Hands",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Spires of Ascension",
+        "bossName": "Oryphrion",
+        "itemId": 180113,
+        "itemName": "Thunderous Echo Vambraces",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Wrist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Spires of Ascension",
+        "bossName": "Devos, Paragon of Doubt",
+        "itemId": 180108,
+        "itemName": "Abyssal Disharmony Breeches",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Legs",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Spires of Ascension",
+        "bossName": "Devos, Paragon of Doubt",
+        "itemId": 180114,
+        "itemName": "Fallen Paragon's Armguards",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Wrist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Spires of Ascension",
+        "bossName": "Devos, Paragon of Doubt",
+        "itemId": 180119,
+        "itemName": "Boon of the Archon",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Spires of Ascension",
+        "bossName": "Devos, Paragon of Doubt",
+        "itemId": 180096,
+        "itemName": "Devos' Cacophonous Poleaxe",
+        "itemClass": "Weapon",
+        "itemSubClass": "Polearm",
+        "itemInvType": "Two-Hand",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Spires of Ascension",
+        "bossName": "Devos, Paragon of Doubt",
+        "itemId": 180098,
+        "itemName": "Sinister Requiem Vestments",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Chest",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "Spires of Ascension",
+        "bossName": "Devos, Paragon of Doubt",
+        "itemId": 180099,
+        "itemName": "Breastplate of Brutal Dissonance",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Chest",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Spires of Ascension",
+        "bossName": "Devos, Paragon of Doubt",
+        "itemId": 180123,
+        "itemName": "Drape of Twisted Loyalties",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Back",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      }
+    ],
+    "nw": [
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Blightbone",
+        "itemId": 178731,
+        "itemName": "Viscera-Stitched Footpads",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Feet",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Blightbone",
+        "itemId": 178734,
+        "itemName": "Fused Bone Greatbelt",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Waist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Blightbone",
+        "itemId": 178732,
+        "itemName": "Abominable Visage",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Head",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Blightbone",
+        "itemId": 178730,
+        "itemName": "Engorged Worm Smasher",
+        "itemClass": "Weapon",
+        "itemSubClass": "Mace",
+        "itemInvType": "One-Hand",
+        "stats": [
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Blightbone",
+        "itemId": 178735,
+        "itemName": "Blight Belcher",
+        "itemClass": "Weapon",
+        "itemSubClass": "Gun",
+        "itemInvType": "Ranged",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Blightbone",
+        "itemId": 178736,
+        "itemName": "Stitchflesh's Misplaced Signet",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Finger",
+        "stats": [
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Blightbone",
+        "itemId": 178733,
+        "itemName": "Blightbone Spaulders",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Shoulder",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Amarth, The Harvester",
+        "itemId": 178738,
+        "itemName": "Rattling Deadeye Hood",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Head",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Amarth, The Harvester",
+        "itemId": 178742,
+        "itemName": "Bottled Chimera Toxin",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Critical Strike"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Amarth, The Harvester",
+        "itemId": 178740,
+        "itemName": "Reanimator's Mantle",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Shoulder",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Amarth, The Harvester",
+        "itemId": 178741,
+        "itemName": "Risen Monstrosity Cuffs",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Wrist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Amarth, The Harvester",
+        "itemId": 178739,
+        "itemName": "Legplates of Unholy Frenzy",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Legs",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Amarth, The Harvester",
+        "itemId": 178737,
+        "itemName": "Amarth's Spellblade",
+        "itemClass": "Weapon",
+        "itemSubClass": "Sword",
+        "itemInvType": "One-Hand",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Surgeon Stitchflesh",
+        "itemId": 178772,
+        "itemName": "Satchel of Misbegotten Minions",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Surgeon Stitchflesh",
+        "itemId": 178745,
+        "itemName": "Striders of Restless Malice",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Feet",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Surgeon Stitchflesh",
+        "itemId": 178748,
+        "itemName": "Gory Surgeon's Gloves",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Hands",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Surgeon Stitchflesh",
+        "itemId": 178744,
+        "itemName": "Freshly Embalmed Jerkin",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Chest",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Surgeon Stitchflesh",
+        "itemId": 178749,
+        "itemName": "Vile Butcher's Pauldrons",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Shoulder",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Surgeon Stitchflesh",
+        "itemId": 178743,
+        "itemName": "Stitchflesh's Scalpel",
+        "itemClass": "Weapon",
+        "itemSubClass": "Dagger",
+        "itemInvType": "One-Hand",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Surgeon Stitchflesh",
+        "itemId": 178750,
+        "itemName": "Encrusted Canopic Lid",
+        "itemClass": "Armor",
+        "itemSubClass": "Shield",
+        "itemInvType": "Off Hand",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Surgeon Stitchflesh",
+        "itemId": 178751,
+        "itemName": "Spare Meat Hook",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Nalthor the Rimebinder",
+        "itemId": 178779,
+        "itemName": "Undying Chill Shoulderpads",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Shoulder",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Nalthor the Rimebinder",
+        "itemId": 178778,
+        "itemName": "Lichbone Legguards",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Legs",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Nalthor the Rimebinder",
+        "itemId": 178781,
+        "itemName": "Ritual Commander's Ring",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Finger",
+        "stats": [
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Nalthor the Rimebinder",
+        "itemId": 178777,
+        "itemName": "Dark Frost Helmet",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Head",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Nalthor the Rimebinder",
+        "itemId": 178783,
+        "itemName": "Siphoning Phylactery Shard",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Nalthor the Rimebinder",
+        "itemId": 178782,
+        "itemName": "Necropolis Lord's Shackles",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Wrist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "The Necrotic Wake",
+        "bossName": "Nalthor the Rimebinder",
+        "itemId": 178780,
+        "itemName": "Rimebinder's Runeblade",
+        "itemClass": "Weapon",
+        "itemSubClass": "Sword",
+        "itemInvType": "Two-Hand",
+        "stats": [
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      }
+    ],
+    "top": [
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "An Affront of Challengers",
+        "itemId": 178871,
+        "itemName": "Bloodoath Signet",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Finger",
+        "stats": [
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "An Affront of Challengers",
+        "itemId": 178799,
+        "itemName": "Amphitheater Stalker's Hood",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Head",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "An Affront of Challengers",
+        "itemId": 178803,
+        "itemName": "Plague-Licked Amice",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Shoulder",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "An Affront of Challengers",
+        "itemId": 178866,
+        "itemName": "Dessia's Decimating Decapitator",
+        "itemClass": "Weapon",
+        "itemSubClass": "Axe",
+        "itemInvType": "Two-Hand",
+        "stats": [
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "An Affront of Challengers",
+        "itemId": 178810,
+        "itemName": "Vial of Vampiric Essence",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "An Affront of Challengers",
+        "itemId": 178800,
+        "itemName": "Galvanized Oxxein Legguards",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Legs",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "An Affront of Challengers",
+        "itemId": 178795,
+        "itemName": "Vest of Concealed Secrets",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Chest",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "Gorechop",
+        "itemId": 178869,
+        "itemName": "Fleshfused Circle",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Finger",
+        "stats": [
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "Gorechop",
+        "itemId": 178793,
+        "itemName": "Abdominal Securing Chestguard",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Chest",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "Gorechop",
+        "itemId": 178808,
+        "itemName": "Viscera of Coalesced Hatred",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "Gorechop",
+        "itemId": 178806,
+        "itemName": "Contaminated Gauze Wristwraps",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Wrist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "Gorechop",
+        "itemId": 178798,
+        "itemName": "Grips of Overwhelming Beatings",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Hands",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "Xav the Unfallen",
+        "itemId": 178865,
+        "itemName": "Xav's Pike of Authority",
+        "itemClass": "Weapon",
+        "itemSubClass": "Polearm",
+        "itemInvType": "Two-Hand",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "Xav the Unfallen",
+        "itemId": 178801,
+        "itemName": "Fearless Challenger's Leggings",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Legs",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "Xav the Unfallen",
+        "itemId": 178794,
+        "itemName": "Triumphant Combatant's Chainmail",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Chest",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "Xav the Unfallen",
+        "itemId": 178789,
+        "itemName": "Fleshcrafter's Knife",
+        "itemClass": "Weapon",
+        "itemSubClass": "Dagger",
+        "itemInvType": "One-Hand",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "Xav the Unfallen",
+        "itemId": 178864,
+        "itemName": "Gorebound Predator's Gavel",
+        "itemClass": "Weapon",
+        "itemSubClass": "Mace",
+        "itemInvType": "One-Hand",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "Xav the Unfallen",
+        "itemId": 178807,
+        "itemName": "Pit Fighter's Wristguards",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Wrist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "Xav the Unfallen",
+        "itemId": 178863,
+        "itemName": "Gorestained Cleaver",
+        "itemClass": "Weapon",
+        "itemSubClass": "Axe",
+        "itemInvType": "One-Hand",
+        "stats": [
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "Kul'tharok",
+        "itemId": 178805,
+        "itemName": "Girdle of Shattered Dreams",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Waist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "Kul'tharok",
+        "itemId": 178809,
+        "itemName": "Soulletting Ruby",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "Kul'tharok",
+        "itemId": 178870,
+        "itemName": "Ritual Bone Band",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Finger",
+        "stats": [
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "Kul'tharok",
+        "itemId": 178796,
+        "itemName": "Boots of Shuddering Matter",
+        "itemClass": "Armor",
+        "itemSubClass": "Mail",
+        "itemInvType": "Feet",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "Kul'tharok",
+        "itemId": 178792,
+        "itemName": "Soulsewn Vestments",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Chest",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "Mordretha, the Endless Empress",
+        "itemId": 178811,
+        "itemName": "Grim Codex",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Trinket",
+        "stats": [
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "Mordretha, the Endless Empress",
+        "itemId": 178804,
+        "itemName": "Fallen Empress' Cord",
+        "itemClass": "Armor",
+        "itemSubClass": "Cloth",
+        "itemInvType": "Waist",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Versatility"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "Mordretha, the Endless Empress",
+        "itemId": 178867,
+        "itemName": "Barricade of the Endless Empire",
+        "itemClass": "Armor",
+        "itemSubClass": "Shield",
+        "itemInvType": "Off Hand",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "Mordretha, the Endless Empress",
+        "itemId": 178868,
+        "itemName": "Deathwalker's Promise",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Held In Off-hand",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Versatility"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "Mordretha, the Endless Empress",
+        "itemId": 178872,
+        "itemName": "Ring of Perpetual Conflict",
+        "itemClass": "Armor",
+        "itemSubClass": "Miscellaneous",
+        "itemInvType": "Finger",
+        "stats": [
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "Mordretha, the Endless Empress",
+        "itemId": 178802,
+        "itemName": "Unyielding Combatant's Pauldrons",
+        "itemClass": "Armor",
+        "itemSubClass": "Plate",
+        "itemInvType": "Shoulder",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Strength"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Haste"
+          },
+          {
+            "statName": "Mastery"
+          }
+        ]
+      },
+      {
+        "instanceName": "Theater of Pain",
+        "bossName": "Mordretha, the Endless Empress",
+        "itemId": 178797,
+        "itemName": "Vanquished Usurper's Footpads",
+        "itemClass": "Armor",
+        "itemSubClass": "Leather",
+        "itemInvType": "Feet",
+        "stats": [
+          {
+            "statName": "Intellect"
+          },
+          {
+            "statName": "Agility"
+          },
+          {
+            "statName": "Stamina"
+          },
+          {
+            "statName": "Critical Strike"
+          },
+          {
+            "statName": "Haste"
+          }
+        ]
+      }
+    ]
+  }
+}
